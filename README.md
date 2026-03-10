@@ -1,4 +1,6 @@
-## Hi there 👋<picture>
+## Hi there 👋
+
+<picture>
 <
 source media" (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
 <
